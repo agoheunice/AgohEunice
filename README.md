@@ -11,7 +11,7 @@ Agoh Eunice is a Data Analyst skilled in using Excel • Power Query • SQL •
 
 - 👨‍💻 All of my projects are available at [https://github.com/agoheunice?tab=repositories](https://github.com/agoheunice?tab=repositories)
 
-- 💬 Ask me about **SKL, Power BI, Excel**
+- 💬 Ask me about **SQL, Power BI, Excel**
 
 - 📫 How to reach me **agoheunice7@gmail.com**
 
